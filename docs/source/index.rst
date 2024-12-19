@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+JUN88 🏆 JUN 88 ĐĂNG KÝ ĐĂNG NHẬP CHÍNH THỨC
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Jun88 <https://2021hkcharter.com/>`_ là một nền tảng chơi game đổi thưởng trực tuyến hàng đầu tại Việt Nam, nổi bật với đa dạng các sản phẩm và dịch vụ chất lượng. Được thành lập để đáp ứng nhu cầu ngày càng cao của thị trường chơi game đổi thưởng, Jun88 đã xây dựng được uy tín vững chắc nhờ vào sự cải tiến liên tục và sự thân thiện với người dùng. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Jun88 cung cấp các loại hình thể thao, casino trực tuyến, game bài, và nhiều trò chơi giải trí khác, với tỷ lệ đổi thưởng đa dạng và hấp dẫn. Jun88 cũng chú trọng đến bảo mật thông tin, hỗ trợ khách hàng chuyên nghiệp 24/7, cùng các chương trình khuyến mãi hấp dẫn, tạo nên một môi trường chơi game đổi thưởng an toàn và công bằng. Bên cạnh đó, các sự kiện đặc biệt như giải đấu chơi game đổi thưởng và quay số may mắn cũng thu hút đông đảo người chơi tham gia.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 207/07 Nguyễn Trọng Tuyển, Phường 08, Quận Phú Nhuận, TP. Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0898169320. 
 
-.. toctree::
+Email: support@2021hkcharter.com. 
 
-   usage
-   api
+Website: https://2021hkcharter.com/ 
+
+#jun88 #trangchujun88 #dangkyjun88 #dangnhapjun88 #linkjun88
